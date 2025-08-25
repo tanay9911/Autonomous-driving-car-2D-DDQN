@@ -26,6 +26,7 @@ The following dependencies are necessary for successful execution:
 To install the required external libraries, run the following command in your terminal:
 pip install pygame numpy tensorflow
 
-### After extracting the  7.zip folder:
+### After downloading the code's folder:
 - Open the main_test_model.py file 
+
 - Run the  main_test_model.py file
